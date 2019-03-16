@@ -1,2 +1,2 @@
-# Project 1 - CSC322 - Feb 2019
+# Project 2 - CSC322 - Mar 2019
 ## Yves Belliveau - Lance Lansing
